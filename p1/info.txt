@@ -1,0 +1,1 @@
+a simple web page show a link like button
